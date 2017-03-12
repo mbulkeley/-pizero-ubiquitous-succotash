@@ -1,3 +1,0 @@
-# pizero
-
-Pi Zero Projects
